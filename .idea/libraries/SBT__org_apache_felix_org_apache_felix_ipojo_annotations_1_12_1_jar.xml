@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.felix:org.apache.felix.ipojo.annotations:1.12.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.felix/org.apache.felix.ipojo.annotations/jars/org.apache.felix.ipojo.annotations-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.felix/org.apache.felix.ipojo.annotations/srcs/org.apache.felix.ipojo.annotations-1.12.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

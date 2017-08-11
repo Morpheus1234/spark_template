@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.janeluo:ikanalyzer:2012_u6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.janeluo/ikanalyzer/jars/ikanalyzer-2012_u6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.janeluo/ikanalyzer/srcs/ikanalyzer-2012_u6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
